@@ -4,3 +4,4 @@ scikit-learn
 seaborn
 Flask
 gunicorn==19.7.1
+Flask-Cors==3.0.10
